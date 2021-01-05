@@ -1,6 +1,6 @@
 # Build a stock checker App (Stock'r)
 
-This file is meant to be for educational purposes only. The code will give you an idea of how to search other sites but be sure to honour their terms and conditions.
+This file is meant to be for practise purposes only. The code will give an idea of how to search other sites but be sure to honour their terms and conditions.
 
 Steps to Use:
 1) Download the code (its best to setup a virtual environment)
